@@ -1,4 +1,4 @@
-If you are on linux :
+# If you are on linux
 
 Install node
     
@@ -48,10 +48,24 @@ OR
 
 # Git Commands
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+Create a new git repo
+
+    git init 
+
+View the changes to your project code
+
+    git status
+
+Add files to staging area
+
+    git add
+
+Creates a new commit with files from staging area
+
+    git commit
+
+View recent commits
+    
+    git log
 
 }
